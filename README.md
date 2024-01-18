@@ -5,7 +5,7 @@
 
 <br>
 
-<h2>👨‍💻Programming Langguage and tools</h2>
+<h2>👨‍💻programming langguage and tools i had learned</h2>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50">

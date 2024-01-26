@@ -14,6 +14,8 @@
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60"></th>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"></th>
   </tr>
+</table>
+<table>
   <tr>
     <th>Intermediate</th>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"></th>

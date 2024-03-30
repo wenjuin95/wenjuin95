@@ -1,5 +1,5 @@
 <h1>👋 Hi, EVERYONE</h1>
-- I'm low<br>
+- Everyone call me low<br>
 - Student from 42 kuala lumpur<br>
 - Still exploring what is programming<br>
 

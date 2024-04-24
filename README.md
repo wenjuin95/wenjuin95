@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, EVERYONE</h1>
 👦 Everyone call me low<br>
 📖 Student from 42 kuala lumpur<br>
-🤔 Still exploring what is programming<br>
-
-<br>
 
 <h2>👨‍💻programming langguage and tools i learn</h2>
 

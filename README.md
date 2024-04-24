@@ -21,10 +21,12 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut&theme=transparent&title_color=ffffff&text_color=ffffff" />
 
-
-
+<h1>For 42 student</h1>
+<a href="https://github.com/wenjuin95/lazy_program">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=lazy_program&theme=transparent&title_color=ffffff&text_color=ffffff"/>
+</a>
 
 
 

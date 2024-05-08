@@ -27,6 +27,9 @@
 <a href="https://github.com/wenjuin95/lazy_program">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=lazy_program&theme=transparent"/>
 </a>
+<a href="https://github.com/wenjuin95/lazy_program">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MF-Generator&theme=transparent"/>
+</a>
 
 
 

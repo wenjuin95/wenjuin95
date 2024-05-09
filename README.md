@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=lazy_program&theme=transparent"/>
 </a>
 <a href="https://github.com/wenjuin95/MF-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MF-Generator&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MAKEFILE&theme=transparent"/>
 </a>
 
 

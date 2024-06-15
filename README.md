@@ -16,6 +16,8 @@
   <tr>
     <th>intermediate level</th>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" weight="40"></th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" weight="40"></th>
+          
   </tr>
 </table>
 <table>

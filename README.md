@@ -1,9 +1,14 @@
 <h1 align="center">👋 Hi, EVERYONE</h1>
 👦 I'm low<br>
-📖 A student at 42kuala lumpur<br>
+📖 A student at 42kuala lumpur<br><br>
+
 
 <h2>👨‍💻programming langguage and tools i learn</h2>
-
+<table>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=wenjuin95&label=Profile%20Views&color=6&icon=0&pretty=false" />
+  </a>
+</table>
 <table>
   <tr>
     <th>beginner level</th>

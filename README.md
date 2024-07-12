@@ -4,11 +4,7 @@
 
 
 <h2>👨‍💻programming langguage and tools i learn</h2>
-<table>
-  <a href="">
-    <img src="https://visitcount.itsvg.in/api?id=wenjuin95&label=Profile%20Views&color=6&icon=0&pretty=false" />
-  </a>
-</table>
+<img src="https://visitcount.itsvg.in/api?id=wenjuin95&label=Profile%20Views&color=6&icon=0&pretty=false" />
 <table>
   <tr>
     <th>beginner level</th>

@@ -4,7 +4,7 @@
 
 
 <h2>👨‍💻programming langguage and tools i learn</h2>
-<img src="https://visitcount.itsvg.in/api?id=wenjuin95&label=Profile%20Views&color=6&icon=0&pretty=false" />
+<img src="https://komarev.com/ghpvc/?username=wenjuin95&style=for-the-badge&color=lightgrey" />
 <table>
   <tr>
     <th>beginner level</th>

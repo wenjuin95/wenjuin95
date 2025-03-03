@@ -36,9 +36,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut&theme=transparent" />
 
-<h1>For 42 student</h1>
+<h1>my creation 🙂</h1>
 <a href="https://github.com/wenjuin95/MF-Generator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MAKEFILE&theme=transparent"/>
+</a>
+<a href="https://github.com/wenjuin95/MF-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=desktop_tool&theme=transparent"/>
 </a>
 
 

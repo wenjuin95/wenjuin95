@@ -34,9 +34,23 @@
   </tr>
 </table>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut&theme=transparent" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut&theme=transparent" />
+    </td>
+    <td>
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/darkblue/welow?1337Badge=off&UM6P=off" alt="welow's 42 stats" /></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h1>my creation 🙂</h1>
+
+
+
+<h1>MY CREATION 🙂</h1>
 <a href="https://github.com/wenjuin95/MF-Generator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MAKEFILE&theme=transparent"/>
 </a>

@@ -51,7 +51,7 @@
 
 
 <h1>MY CREATION 🙂</h1>
-<a href="https://github.com/wenjuin95/MF-Generator">
+<a href="https://github.com/wenjuin95/MakeFileGenerator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenjuin95&repo=MAKEFILE&theme=transparent"/>
 </a>
 <a href="https://github.com/wenjuin95/desktop_tool">

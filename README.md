@@ -39,11 +39,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&layout=donut&theme=transparent" />
     </td>
-    <td>
+<!--     <td>
       <a href="https://github.com/oakoudad/badge42">
         <img src="https://badge.mediaplus.ma/darkblue/welow?1337Badge=off&UM6P=off" alt="welow's 42 stats" /></a>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 

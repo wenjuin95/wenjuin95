@@ -1,5 +1,9 @@
 # 💫 About Me
-<h1 align="center">👋 Hi, EVERYONE</h1><br>👦 I'm name is low<br>📖 I'm a student at 42kuala lumpur<br>🧑‍💻 I'm a person who like to explore in test world<br><br>
+<h1 align="center">👋 Hey there, everyone!</h1><br>
+👦 I'm Low<br>
+📚 Currently a student at 42 Kuala Lumpur<br>
+🧑‍💻 I enjoy learning new tech and building cool stuff<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=wenjuin95&style=for-the-badge&color=lightgrey" />
 
 <br>

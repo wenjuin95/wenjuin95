@@ -31,6 +31,7 @@
 ## 🛠 Tools & Infrastructure
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Sqlite](https://img.shields.io/badge/sqlite-0096c4?style=for-the-badge&logo=sqlite&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/Prisma-303030?style=for-the-badge&logo=Prisma)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0096c4?style=for-the-badge&logo=docker&logoColor=ffffff)

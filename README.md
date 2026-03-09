@@ -60,9 +60,6 @@
 <hr>
 
 # 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenjuin95&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wenjuin95&theme=dark&hide_border=false" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjuin95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165px" />
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

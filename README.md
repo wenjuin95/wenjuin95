@@ -57,6 +57,8 @@
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lowwenjuin95/) 
+<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://low-wen-juin.vercel.app/) 
 
 <br>
 <hr>

@@ -45,9 +45,10 @@
 # 📚 Project
 | Project | Description |
 |-------------|-------------|
+| [**Music Store Analysis**](https://github.com/wenjuin95/Music-Store-Analytics) | Simple Python data analysis project using a local SQLite database. |
 | [**expenses_tracker**](https://github.com/wenjuin95/Expenses_Tracker) | A command-line Expenses Tracker application written in Java. |
 | [**Workout_motion_detection**](https://github.com/wenjuin95/workout-motion-detection) | workout motion detection application that uses computer vision to track arm movements and count repetitions |
-| [**Ft_trancendence**](https://github.com/exellaz/ft_transcendence) | showcases the complete development of a modern full-stack web application from scratch. It brings together real-time communication, secure authentication, responsive UI, multiplayer game logic, database management, and deployment | 
+| [**Ft_trancendence**](https://github.com/wenjuin95/Ft_trancendence) | showcases the complete development of a modern full-stack web application from scratch. It brings together real-time communication, secure authentication, responsive UI, multiplayer game logic, database management, and deployment | 
 | [**Cub3D**](https://github.com/wenjuin95/3D-MAZE) | make a dynamic view inside a maze with ray-casting |
 | [**Inception**](https://github.com/wenjuin95/inception) | A hands-on implementation of a microservice-style architecture using Docker. Key features include custom-built images, TLS-secured NGINX, and managed volumes for database persistence |
 | [**Webserver**](https://github.com/exellaz/webserv) | make a server with C++98 | 

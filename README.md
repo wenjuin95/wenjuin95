@@ -45,6 +45,7 @@
 # 📚 Project
 | Project | Description |
 |-------------|-------------|
+| [**Malaysia Currency Exchange**](https://github.com/wenjuin95/MYR-Currency-Exchange) | a lightweight, ad-free currency exchange web application tailored specifically for the Malaysian market. |
 | [**Music Store Analysis**](https://github.com/wenjuin95/Music-Store-Analytics) | Simple Python data analysis project using a local SQLite database. |
 | [**expenses_tracker**](https://github.com/wenjuin95/Expenses_Tracker) | A command-line Expenses Tracker application written in Java. |
 | [**Workout_motion_detection**](https://github.com/wenjuin95/workout-motion-detection) | workout motion detection application that uses computer vision to track arm movements and count repetitions |

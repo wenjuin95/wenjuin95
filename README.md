@@ -11,31 +11,26 @@
 
 # 💻 Tech Stack
 
-## 🧑‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6e0000?style=for-the-badge&logo=Java)
-![Sql](https://img.shields.io/badge/Sql-c45c00?style=for-the-badge&logo=sql)
+### 🧑‍💻 Programming Languages
 
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Systems & Core** | C · C++ · Java · SQL |
+| **Web & Scripting** | JavaScript · TypeScript · Python · HTML5 · CSS3 |
 
-## ⚙️ Frameworks & Libraries
-![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### ⚙️ Frameworks & Libraries
 
-## 🛠 Tools & Infrastructure
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Sqlite](https://img.shields.io/badge/sqlite-0096c4?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/Prisma-303030?style=for-the-badge&logo=Prisma)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0096c4?style=for-the-badge&logo=docker&logoColor=ffffff)
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React Native · Next.js |
+| **Backend** | Node.js |
 
+### 🛠 Tools & Infrastructure
+
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Databases** | MariaDB · SQLite · Prisma |
+| **DevOps & Control** | Nginx · Docker |
 
 
 

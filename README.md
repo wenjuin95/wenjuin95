@@ -2,7 +2,8 @@
 <h1 align="center">👋 Hey there, everyone!</h1><br>
 👦 I'm Low<br>
 📚 Currently a student at 42 Kuala Lumpur<br>
-🧑‍💻 I enjoy learning new tech and building cool stuff<br><br>
+🤖 Aspiring AI Engineer focused on integrating machine learning with robust software systems<br>
+🧑‍💻 I enjoy building intelligent applications, from computer vision tools to automated AI workflows<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=wenjuin95&style=for-the-badge&color=lightgrey" />
 
@@ -10,6 +11,13 @@
 <hr>
 
 # 💻 Tech Stack
+
+### 🤖 AI & Machine Learning
+
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Vision ML** | OpenCV · MediaPipe |
+| **AI Integration** | LLM APIs · Prompt Engineering · OCR |
 
 ### 🧑‍💻 Programming Languages
 
@@ -40,9 +48,9 @@
 # 📚 Project
 | Project | Description |
 |-------------|-------------|
+| [**AI-Expense-Tracker**](https://github.com/wenjuin95/AI-Expense-Tracker) | An automated financial tool using OCR and AI to scan receipts, extract key data, and organize spending. |
+| [**AI-code-review**](https://github.com/wenjuin95/AI-code-review) | A lightweight AI-assisted Pull Request reviewer.. |
 | [**Malaysia Currency Exchange**](https://github.com/wenjuin95/MYR-Currency-Exchange) | a lightweight and ad-free currency exchange web application tailored specifically for the Malaysian market. |
-| [**Music Store Analysis**](https://github.com/wenjuin95/Music-Store-Analytics) | Simple Python data analysis project using a local SQLite database. |
-| [**expenses_tracker**](https://github.com/wenjuin95/Expenses_Tracker) | A command-line Expenses Tracker application written in Java. |
 | [**Workout_motion_detection**](https://github.com/wenjuin95/workout-motion-detection) | workout motion detection application that uses computer vision to track arm movements and count repetitions |
 | [**Ft_trancendence**](https://github.com/wenjuin95/Ft_trancendence) | showcases the complete development of a modern full-stack web application from scratch. It brings together real-time communication, secure authentication, responsive UI, multiplayer game logic, database management, and deployment | 
 | [**Cub3D**](https://github.com/wenjuin95/3D-MAZE) | make a dynamic view inside a maze with ray-casting |

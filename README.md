@@ -48,11 +48,11 @@
 # 📚 Project
 | Project | Description |
 |-------------|-------------|
-| [**AI-Expense-Tracker**](https://github.com/wenjuin95/AI-Expense-Tracker) | An automated financial tool using OCR and AI to scan receipts, extract key data, and organize spending. |
-| [**AI-code-review**](https://github.com/wenjuin95/AI-code-review) | A lightweight AI-assisted Pull Request reviewer.. |
-| [**Discord-Automation**](https://github.com/wenjuin95/discord-automation) | An automation script that sends scheduled daily greetings, live weather, Air Quality Index (AQI) reports, and AI-powered lifestyle advice to a Discord channel. |
+| [**AI Commit Message Generator**](https://github.com/wenjuin95/ai-commit) | a CLI tool that uses to automatically generate meaningful Git commit messages. |
+| [**AI Code Review**](https://github.com/wenjuin95/AI-code-review) | A lightweight AI-assisted Pull Request reviewer. |
+| [**Discord Automation**](https://github.com/wenjuin95/discord-automation) | An automation script that sends scheduled daily greetings, live weather, Air Quality Index (AQI) reports, and AI-powered lifestyle advice to a Discord channel. |
 | [**Malaysia Currency Exchange**](https://github.com/wenjuin95/MYR-Currency-Exchange) | a lightweight and ad-free currency exchange web application tailored specifically for the Malaysian market. |
-| [**Workout_motion_detection**](https://github.com/wenjuin95/workout-motion-detection) | workout motion detection application that uses computer vision to track arm movements and count repetitions |
+| [**Workout Motion Detection**](https://github.com/wenjuin95/workout-motion-detection) | workout motion detection application that uses computer vision to track arm movements and count repetitions |
 | [**Ft_trancendence**](https://github.com/wenjuin95/Ft_trancendence) | showcases the complete development of a modern full-stack web application from scratch. It brings together real-time communication, secure authentication, responsive UI, multiplayer game logic, database management, and deployment | 
 | [**Cub3D**](https://github.com/wenjuin95/3D-MAZE) | make a dynamic view inside a maze with ray-casting |
 | [**Inception**](https://github.com/wenjuin95/inception) | A hands-on implementation of a microservice-style architecture using Docker. Key features include custom-built images, TLS-secured NGINX, and managed volumes for database persistence |

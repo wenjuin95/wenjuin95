@@ -48,6 +48,7 @@
 # 📚 Project
 | Project | Description |
 |-------------|-------------|
+| [**Expenses Tracker**](https://github.com/wenjuin95/AI-Expenses-Tracker) | purely client-side web application that leverages the Google Gemini API to parse receipts into structured financial data. |
 | [**AI Commit Message Generator**](https://github.com/wenjuin95/ai-commit) | a CLI tool that uses to automatically generate meaningful Git commit messages. |
 | [**AI Code Review**](https://github.com/wenjuin95/AI-code-review) | A lightweight AI-assisted Pull Request reviewer. |
 | [**Discord Automation**](https://github.com/wenjuin95/discord-automation) | An automation script that sends scheduled daily greetings, live weather, Air Quality Index (AQI) reports, and AI-powered lifestyle advice to a Discord channel. |
